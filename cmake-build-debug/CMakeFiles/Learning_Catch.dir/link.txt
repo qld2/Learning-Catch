@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Learning_Catch.dir/main.cpp.o  -o Learning_Catch 
